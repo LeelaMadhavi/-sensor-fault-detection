@@ -1,2 +1,0 @@
-# sensor-fault-detection
-The Air Pressure System (APS) is a  component of a heavy-duty vehicle that uses compressed air to force a piston to provide pressure to the brake pads, slowing the vehicle down. 
